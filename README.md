@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student and Python developer at RGPV, Indore. <br>Passionate about core CS topics like Theory of Computation and DBMS, <br>and loves Python, SQL, algorithms, and cricket (especially IPL).<br>
+Computer Science student at SAIT college , Indore. <br>Passionate about core CS topics like Theory of Computation and DBMS,python developer <br>and loves Python, SQL, algorithms, and cricket (especially IPL).<br>
 
 
 ## 🌐 Socials:
