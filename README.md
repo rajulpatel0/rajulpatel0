@@ -11,11 +11,17 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering student
-💻 Passionate about Python Development, DBMS, Algorithms, and Theory of Computation
-🧠 Exploring Data Structures, Operating Systems, and Software Engineering
-🏏 Cricket enthusiast & IPL fan
-🌱 Currently learning advanced backend & open-source contribution
+🎓 Computer Science Engineering Student  
+
+💻 Passionate about **Python Development, DBMS, Algorithms, and Theory of Computation**  
+
+🧠 Exploring **Data Structures, Operating Systems, and Software Engineering**  
+
+🌱 Currently learning **Advanced Backend Development & Open Source Contribution**  
+
+🏏 Cricket enthusiast & huge **IPL fan**  
+
+⚡ Love building futuristic and modern UI designs 🚀
 ---
 
 # 🌐 Connect With Me
