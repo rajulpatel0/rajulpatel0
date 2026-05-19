@@ -11,12 +11,11 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on **Web Projects**
-- 🌱 Learning **Next.js, AI & Cloud**
-- 👯 Looking to collaborate on **Open Source**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun Fact: **I love futuristic UI designs**
-
+🎓 Computer Science Engineering student
+💻 Passionate about Python Development, DBMS, Algorithms, and Theory of Computation
+🧠 Exploring Data Structures, Operating Systems, and Software Engineering
+🏏 Cricket enthusiast & IPL fan
+🌱 Currently learning advanced backend & open-source contribution
 ---
 
 # 🌐 Connect With Me
@@ -25,14 +24,21 @@
 <a href="https://github.com/rajulpatel0">
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-<a href="https://instagram.com">
+
+<a href="https://instagram.com/iem__rajul">
   <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
-<a href="https://twitter.com">
+
+<a href="https://twitter.com/RajulPatel2004">
   <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+<a href="mailto:rajulpatel192004@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
